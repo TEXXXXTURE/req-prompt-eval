@@ -68,6 +68,9 @@ python scripts/static_check.py <文件> --json --ledger 分数台账.jsonl --tag
 
 # 指定场景
 python scripts/static_check.py <文件> --scenario prd
+
+# 轻档（AIGC 生图/视频）：核心脚本 + 场景补充检查器，两个都跑
+python scripts/aigc_check.py <提示词文件> [--json]
 ```
 
 中档/重档由调用方（Agent 或人）按上面流程编排：裁判和多跑是「调模型」，
@@ -81,4 +84,5 @@ python scripts/static_check.py <文件> --scenario prd
 |---|---|---|
 | PM/需求包 | ✅ 内置（references/判据包-PM需求.md） | 验收判据、未定死点、边界接管、过度约束 |
 | 通用提示词包 | ✅ 内置（references/判据包-通用提示词.md） | 完成定义、范围边界、质量门 |
-| 其他场景（如 AIGC 生图） | ⬚ 扩展位 | 判据完全不同（风格冲突/参考图指定/参数完整性），照 references/场景包扩展说明.md 加一个包即可，核心不动 |
+| AIGC 生图 / 生视频包 | ✅ 内置 v0.1.1（references/判据包-AIGC生图视频.md） | 主体锚定 / 动作终点 / 镜头唯一性 / 声音槽 / 正向稳定约束 / 负面卫生 / 占位符未填（硬失败）；开评先判对象类型（成品 / 方法论模板 / 跨模态） |
+| 其他场景 | ⬚ 扩展位 | 判据完全不同（风格冲突/参考图指定/参数完整性），照 references/场景包扩展说明.md 加一个包即可，核心不动 |

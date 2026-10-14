@@ -1,0 +1,26 @@
+[LOOK — LOCKED, APPLIES TO EVERY SHOT]
+<camera body / capture format>, <lens set>, <stock or sensor>, <optical format>, <T-stop>,
+<depth of field>, <grain>, <highlight behaviour>, <black level>, <contrast>.
+<Grade name>: <hero tone>, <secondary field>, <shadow bias>.
+<Camera operation>. <Performance and audio baseline>.
+
+[Generation Goal]
+Generate a <video type>. The central subject is <subject>, and the primary event is <story summary>.
+
+[Stage 1]
+Initial state: <initial state of characters, props, and scene>.
+Primary event: <one primary action or event>.
+End state: <character positions, prop ownership, or visible scene state>.
+
+[Stage 2]
+Continue from the previous stage: <state that must remain unchanged>.
+Primary event: <one primary action or event>.
+End state: <observable state>.
+
+[Stage 3]
+Primary event: <closing event>.
+End state: <final visible state>.
+
+[Maintain Consistency]
+Keep <character identity, number of characters, clothing, prop ownership, spatial direction,
+and audio relationships> consistent.

@@ -1,0 +1,6 @@
+16:9 widescreen, 10s, 3D product showcase, studio lighting with soft gradient backdrop, cinematic product commercial tone
+0-3s: product rotates 360° at medium speed, clean reflections on surface, hero key light from upper-left
+3-7s: product pauses, then splits into 3 sections (top/middle/bottom) in a 3D exploded view, each part floats apart with subtle particle trails, smooth transition
+7-10s: parts rapidly reassemble with satisfying snap motion, final hero shot with brand-neutral backdrop glow, slight camera push-in for impact
+Material rendering: accurate surface finish, glass reflections, metallic sheen where applicable
+negative: no watermark, no logo overlay, no text overlay, no price tags, no competitor branding, no distorted proportions
