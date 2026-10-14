@@ -69,9 +69,18 @@ python scripts/static_check.py <文件> --json --ledger 分数台账.jsonl --tag
 # 指定场景
 python scripts/static_check.py <文件> --scenario prd
 
-# 轻档（AIGC 生图/视频）：核心脚本 + 场景补充检查器，两个都跑
-python scripts/aigc_check.py <提示词文件> [--json]
+# 轻档（AIGC 生图/视频）：场景补充检查器 = 主分；核心脚本 = 参考栏，两个都跑
+python scripts/aigc_check.py <提示词文件> [--tier advanced|platform] [--json] [--no-static]
 ```
+
+**AIGC 场景合分口径（v0.2 已定）**：**以 `aigc_check.py` 的「主分」为准**；
+`static_check.py` 的总分**降为参考栏**（它的词表是需求向的，对生图 / 生视频提示词几乎不命中——
+12 条用例里 11 条同分 33.3），只作体检记录，**不参与排序、不与主分平均加权**。
+评分卡两栏**分开标**：`主分：xx ｜ 参考栏 static：xx`。
+**档位开关**：`--tier advanced|platform`（默认 `platform`）——进阶档 = 物理描写派（空词命中即扣），
+平台档 = 国内厂商预设派（阿里 `8K`/`32k UHD`/`最佳品质`、火山 `高清，细节丰富…` 等官方词表原词视为平台语料，不扣）。
+两档分差只来自「空词豁免 + 空词密度曲线」，可溯源到 D 报告 ③-C1；7 个分档子类的双档写法见判据包§六 6.1，
+阈值校准数据见 `research/E3-v02校准报告.md`。
 
 中档/重档由调用方（Agent 或人）按上面流程编排：裁判和多跑是「调模型」，
 本技能只定判据和纪律，不绑任何模型渠道。
@@ -84,5 +93,5 @@ python scripts/aigc_check.py <提示词文件> [--json]
 |---|---|---|
 | PM/需求包 | ✅ 内置（references/判据包-PM需求.md） | 验收判据、未定死点、边界接管、过度约束 |
 | 通用提示词包 | ✅ 内置（references/判据包-通用提示词.md） | 完成定义、范围边界、质量门 |
-| AIGC 生图 / 生视频包 | ✅ 内置 v0.1.1（references/判据包-AIGC生图视频.md） | 主体锚定 / 动作终点 / 镜头唯一性 / 声音槽 / 正向稳定约束 / 负面卫生 / 占位符未填（硬失败）；开评先判对象类型（成品 / 方法论模板 / 跨模态） |
+| AIGC 生图 / 生视频包 | ✅ 内置 v0.2（references/判据包-AIGC生图视频.md） | 主体锚定 / 动作终点 / 镜头唯一性 / 声音槽 / 正向稳定约束 / 负面卫生 / 占位符未填（硬失败）；开评先判对象类型（成品 / 方法论模板 / 跨模态）；**7 个分档子类双开关（`--tier advanced\|platform`）**；合分口径 = aigc_check 主分 + static 参考栏 |
 | 其他场景 | ⬚ 扩展位 | 判据完全不同（风格冲突/参考图指定/参数完整性），照 references/场景包扩展说明.md 加一个包即可，核心不动 |

@@ -1,0 +1,5 @@
+--ar 16:9 --s 50 --seed 12345
+
+中景，一位饱经风霜的渔夫站在薄雾笼罩的码头，缓慢抬起渔网，目光停在远处灯塔。
+warm practical key from frame left, cool blue rim；湿木板的反射，粗糙缆绳的纤维。
+slow push-in from medium shot to close-up。

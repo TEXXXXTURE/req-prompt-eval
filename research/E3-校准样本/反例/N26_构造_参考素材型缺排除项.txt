@@ -1,0 +1,2 @@
+@Image 1 defines the character's appearance. @Image 2 defines the character's outfit.
+一位原创角色站在雨夜街头，缓慢回头。中景，冷色雨光。声音：雨声，无配乐。

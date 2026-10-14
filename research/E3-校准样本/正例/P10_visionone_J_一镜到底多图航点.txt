@@ -1,0 +1,7 @@
+16:9 widescreen, 15s, espionage thriller style, continuous one-take tracking shot, no cuts, rainy evening, neon-reflected wet streets, suspenseful atmosphere
+@image1 as first frame: protagonist in a dark coat walks forward, camera follows from the front at full-body framing
+0-5s: steady front-tracking shot, passersby occasionally obscure the protagonist, rain droplets on lens edge, shallow depth of field on subject
+6-10s: protagonist turns a corner past the building from @image2, camera pans to follow, a mysterious figure referencing @image3 is spotted lurking at the corner edge watching
+11-15s: camera continues forward past the figure, protagonist approaches and enters the building from @image4, camera holds on the entrance as door closes, rain intensifies
+Single continuous camera movement throughout, no cuts, no montage
+negative: no watermark, no subtitles, no on-screen text, no jump cuts, no freeze frames

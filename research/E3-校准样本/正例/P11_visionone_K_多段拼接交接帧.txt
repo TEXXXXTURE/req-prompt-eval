@@ -1,0 +1,14 @@
+## 第 1 段（0-15 秒）—— 正常生成
+16:9 widescreen, 15s, fantasy cinematic, aerial establishing shot
+0-5s: top-down view of swirling cloud sea over mountain peaks, camera slowly pushes down through cloud layer
+6-10s: reveal a sword master standing on a cliff edge, back to camera, robes billowing, dark energy rising on the horizon
+11-15s: sword master slowly turns to face camera, draws glowing blade, eyes determined, low voice: "It begins.", hold on a clean front-facing composition
+
+交接帧：剑师正面中景，发光长剑出鞘，身后山脉，前方乌云翻涌
+
+## 第 2 段（15-30 秒）—— 视频延展
+Extend @video1 by 15s. Preserve character identity, outfit, lighting, and camera style.
+0-5s: continuing from the sword master's stance, dozens of shadow creatures emerge from the dark clouds and charge forward, sword master leaps to meet them
+6-10s: aerial combat sequence, blade trails cut through shadow forms that dissolve into ash particles, orbiting camera with dynamic tracking
+11-15s: sword master lands gracefully, sheathes blade, residual golden particles drift in the air, camera slow push-in on profile against clearing sky, score fades to wind ambience
+negative: no watermark, no on-screen text

@@ -1,0 +1,2 @@
+clean rendering, clear focal/support/quiet detail hierarchy, selective focal detail, broad calm masses, realistic detail only, natural texture only, controlled material rendering, clean gradients, soft diffused lighting, controlled highlights, subtle reflections only, matte or natural surfaces
+Avoid: ghost texture, latent artifacts, hidden watermark-like marks, repeated micro-pattern noise, muddy shadows, noisy bokeh, pasted-on texture.

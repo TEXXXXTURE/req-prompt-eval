@@ -1,0 +1,55 @@
+样本	期望	来源与说明
+P01_visionone_A_电影冒险.txt	pos	期望=pos ｜ 来源=research/E-用例/T01_visionone_A_电影冒险.txt（原文复制，未改写）
+P02_visionone_H_产品展示.txt	pos	期望=pos ｜ 来源=research/E-用例/T02_visionone_H_产品展示.txt（原文复制，未改写）
+P03_visionone_I_含对白短剧.txt	pos	期望=pos ｜ 来源=research/E-用例/T03_visionone_I_含对白短剧.txt（原文复制，未改写）
+P04_seedance25_陶瓷杯Example.txt	pos	期望=pos ｜ 来源=research/E-用例/T04_seedance25_陶瓷杯Example.txt（原文复制，未改写）
+P05_seedance_examples_zh_Character_drama.txt	pos	期望=pos ｜ 来源=research/E-用例/T09_seedance_examples_zh_Character_drama.txt（原文复制，未改写）
+P06_filmPreset_Kodak_Portra_400.txt	pos	期望=pos ｜ 来源=research/E-用例/T10_filmPreset_Kodak_Portra_400.txt（原文复制，未改写）
+P07_V017_九方面输出模板.txt	pos	期望=pos ｜ 来源=research/E-用例/T06_V017_九方面输出模板.txt（原文复制，未改写）
+P08_suno_Style_of_Music块.txt	pos	期望=pos ｜ 来源=research/E-用例/T11_suno_Style_of_Music块.txt（原文复制，未改写）
+P09_visionone_B_延展已有视频.txt	pos	期望=pos ｜ 来源=B-素材原文 L11633–L11643（templates.ts id 'B'，原文） ｜ 说明=成品提示词·延展型
+P10_visionone_J_一镜到底多图航点.txt	pos	期望=pos ｜ 来源=B-素材原文 L11766–L11781（id 'J'，原文） ｜ 说明=参考素材职责·每图各自绑定用途
+P11_visionone_K_多段拼接交接帧.txt	pos	期望=pos ｜ 来源=B-素材原文 L11785–L11800（id 'K'，原文） ｜ 说明=段间连续 / 交接帧
+P12_visionone_D_IP安全生物对战.txt	pos	期望=pos ｜ 来源=B-素材原文 L11662–L11671（id 'D'，原文） ｜ 说明=纯文本·IP 安全 negative
+P13_visionone_E_IP安全科幻英雄.txt	pos	期望=pos ｜ 来源=B-素材原文 L11676–L11685（id 'E'，原文） ｜ 说明=角色昵称行 + 三段节拍
+P14_visionone_F_玩偶舞蹈动画.txt	pos	期望=pos ｜ 来源=B-素材原文 L11690–L11699（id 'F'，原文） ｜ 说明=全素材参考·最长 negative
+P15_zh_Product_I2V.txt	pos	期望=pos ｜ 来源=B-素材原文 L7639（seedance 安全示例原文） ｜ 说明=参考素材型·写「用什么+不用什么」
+P16_zh_First_last_frame.txt	pos	期望=pos ｜ 来源=B-素材原文 L7655（seedance 安全示例原文） ｜ 说明=首尾帧·@图N 指代
+P17_zh_Camera_reference_R2V.txt	pos	期望=pos ｜ 来源=B-素材原文 L7667（seedance 安全示例原文） ｜ 说明=参考素材型·「仅参考 X，不复制 Y」
+P18_zh_Action.txt	pos	期望=pos ｜ 来源=B-素材原文 L7661（seedance 安全示例原文） ｜ 说明=中文紧凑成品·动作/光/声齐全
+P19_火山25_案例_色温调色胶片.txt	pos	期望=pos ｜ 来源=C-大厂预设与提示词资料.md §3.1 火山 Seedance 2.5（案例原词） ｜ 说明=平台档·色温+比例+焦段+胶片
+P20_火山20_画质模板案例.txt	pos	期望=pos ｜ 来源=C-大厂预设与提示词资料.md §3.1 火山 Seedance 2.0（实战案例句尾原词） ｜ 说明=平台档·厂商画质词模板正面使用
+P21_阿里_网球女运动员.txt	pos	期望=pos ｜ 来源=C-大厂预设与提示词资料.md §3.4(b) 阿里百炼原句 ｜ 说明=平台档·主体+静态特征+风格
+P22_阿里_折纸熊猫_最佳品质.txt	pos	期望=pos ｜ 来源=C-大厂预设与提示词资料.md §3.4(b) 阿里百炼原句 ｜ 说明=平台档·厂商语料「最佳品质」正面使用（C1 反例侧）
+P23_im2_窄负面块7项.txt	pos	期望=pos ｜ 来源=B-素材原文 L2630、L2645 区（im2-clean-image 原文） ｜ 说明=负面卫生·窄块 7 项（B·§2.5「一条紧凑行优先」正锚点）
+P24_emotion_开心条_可拍摄线索.txt	pos	期望=pos ｜ 来源=B-素材原文 L1076–L1086（emotion-prompt 原文） ｜ 说明=2.2 情绪可拍摄化·生理线索（进阶档正例）
+P25_构造_参数独立行正例.txt	pos	期望=pos ｜ 来源=【构造】按 B·§可先行落地 12.1 写法拼装（B-素材原文 12.1 词例 `--ar 16:9 --s 50`） ｜ 说明=12.2 独立参数行判定线正锚点
+P26_构造_调色板比例_60_30_10.txt	pos	期望=pos ｜ 来源=B-素材原文 L9948 原词句（`60% 暖赭石色，30% 深炭灰色，10% 铁锈红色`） ｜ 说明=5.2 进阶档正例·比例
+N01_antislop_空词句.txt	neg	期望=neg ｜ 来源=research/E-用例/T07_antislop_空词句.txt（原文复制，未改写）
+N02_lira_否定slop_反例.txt	neg	期望=neg ｜ 来源=research/E-用例/T08_lira_否定slop_反例.txt（原文复制，未改写）
+N03_im2_长负面块19项.txt	neg	期望=neg ｜ 来源=research/E-用例/T12_im2_clean_image_Avoid长负面块.txt（原文复制，未改写）
+N04_占位符未填模板.txt	neg	期望=neg ｜ 来源=research/E-用例/T05_锁定观感块_Stage模板_未填.txt（原文复制，未改写）
+N05_构造_空词堆叠.txt	neg	期望=neg ｜ 来源=【构造】按 B·§2.6 六类 slop 第 1/2/6 类词例拼装 ｜ 说明=空词密度最高档
+N06_构造_同义三连.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 六类 slop 第 5 类原词表 ｜ 说明=形容词堆叠（同义三连）
+N07_构造_标签沙拉.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 六类 slop 第 3 类原词例 ｜ 说明=标签沙拉（逗号堆关键词，无动词无时间轴）
+N08_构造_否定slop写正向.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 六类 slop 第 4 类原词例 ｜ 说明=否定 slop 散落正向正文
+N09_构造_负面旧失败记忆.txt	neg	期望=neg ｜ 来源=【构造】B-素材原文 L2612「Do not name old failed props…」规则 ｜ 说明=负面卫生·旧失败专名
+N10_构造_否定堆叠.txt	neg	期望=neg ｜ 来源=【构造】B-素材原文 L9930「不是卡通，不是动漫…」 ｜ 说明=否定堆叠（召唤被禁概念）
+N11_构造_参数混入散文.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 硬失败「把生成参数写进正文」（lira 规则 4） ｜ 说明=12.2 进阶档反例·参数混在散文句内
+N12_构造_参数自相矛盾.txt	probe	期望=probe（参数矛盾检测探针） ｜ 来源=【构造】判据包 12.1 不通过项「参数自相矛盾」 ｜ 说明=12.1 反例
+N13_构造_全空评价.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 六类 slop 第 1/6 类 + B·§2.4 中文空词表 ｜ 说明=零实词·全抽象评价
+N14_构造_情绪词无外化.txt	neg	期望=neg ｜ 来源=【构造】D·S9「情绪必须可拍摄化」反例 ｜ 说明=抽象情绪词无线索
+N15_构造_越权承诺.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 硬失败「无支撑的能力承诺（frame-accurate）」 ｜ 说明=13.5 越权承诺（本版只计不判，记录用）
+N16_构造_语义污染内部泄漏.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 七类污染之「内部控制泄漏」 ｜ 说明=上一个/之前那版/本段/继续保持
+N17_构造_冲突语义锚.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 七类污染之「冲突语义锚」 ｜ 说明=克制×爆发 / 锁定构图×完全不同视角
+N18_构造_标签负载污染.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 七类污染之「标签负载污染」 ｜ 说明=压迫感/史诗感/动态镜头 靠标签代可见证据
+N19_构造_边角占位符2处.txt	probe	期望=probe（结构面验证：不应硬失败） ｜ 来源=【构造】按 13.0「1–2 处边角占位符 → 记未定死清单，不硬失败」 ｜ 说明=占位符不应触发硬失败
+N20_构造_多镜头无锁定块.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 硬失败「多镜头无锁定观感块 / 每段多于一个主变化」 ｜ 说明=8.1/8.3 反例
+N21_构造_负面23项.txt	neg	期望=neg ｜ 来源=【构造】B-素材原文 L2624 长块（19 项）扩到 23 项 ｜ 说明=负面卫生·不合格档边界（>12）
+N22_构造_负面10项.txt	probe	期望=probe（档位边界，脚本层不判低） ｜ 来源=【构造】负面项数 10（落偏长档） ｜ 说明=负面卫生档位边界样本
+N23_构造_负面8项.txt	probe	期望=probe（卫生合格侧边界） ｜ 来源=【构造】负面项数 8 ｜ 说明=负面卫生档位边界样本（≤8 合格）
+N24_构造_负面13项.txt	probe	期望=probe（档位边界，脚本层不判低） ｜ 来源=【构造】负面项数 13 ｜ 说明=负面卫生档位边界样本（>12 不合格）
+N25_构造_跨语言感受后缀.txt	neg	期望=neg ｜ 来源=【构造】B·§2.6 六类 slop 第 6 类跨语言词表 ｜ 说明=感受后缀（多语言）
+N26_构造_参考素材型缺排除项.txt	probe	期望=probe（裁判项：1.3 判不通过，脚本只报不扣） ｜ 来源=【构造】按 1.3 不通过项 + B-素材原文 L10552「@Images 1 through 4 define four characters respectively.」 ｜ 说明=参考素材型·无用/不用声明（E·5.7 修复后的判法）
+N27_构造_参数混入散文短.txt	probe	期望=probe（进阶档反例；平台档允许内联） ｜ 来源=【构造】12.2 独立参数行判定线反锚点 ｜ 说明=参数与描述同一句、比例低
+N28_构造_方法论词误伤探针.txt	probe	期望=探针（构造）｜ 来源=【构造】用于校准对象类型判别线（方法论特征词计数） ｜ 说明=正常提示词里出现少量「建议/示例/方法」类词，不应被判方法论模板

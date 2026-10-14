@@ -1,0 +1,1 @@
+请生成 frame-accurate 的视频，要求帧级精确、pixel-perfect 像素级一致，每一帧都要精确复刻参考图的每一根发丝。中景。

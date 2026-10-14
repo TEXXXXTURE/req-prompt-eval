@@ -1,0 +1,10 @@
+9:16 vertical, 15s, cinematic short drama scene, indoor office setting, warm tungsten lighting with cool window backlight, shallow depth of field, emotionally charged atmosphere
+0-5s: close-up of Character A at a desk, tense expression, hands gripping a document
+Dialogue (Character A, cold and firm): "The deal is off. I'm done."
+Sound: ambient office hum, paper rustling
+6-10s: medium two-shot, Character B steps forward reaching out, camera dollies slowly right, tension in body language
+Dialogue (Character B, desperate): "You can't just walk away — not after everything."
+Sound: footstep on hard floor, subtle dramatic underscore rising
+11-15s: Character A stands, turns away toward window, silhouette against city lights, holds document then drops it, pages flutter to floor, camera slow push-in on profile
+Sound: paper hitting floor, score resolves to silence, faint city ambience
+negative: no watermark, no subtitles, no on-screen text, no jump cuts, no shaky cam

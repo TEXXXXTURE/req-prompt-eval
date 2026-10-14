@@ -1,0 +1,31 @@
+📎 Style of Music:
+City Pop, Dream Pop, Warm, Nostalgic, Silky Vocals, 80s Japanese
+
+📎 Instrumentation:
+Synth, Electric Guitar, Bass Guitar, Electric Piano, Drums
+
+📎 Tempo: 92 BPM
+📎 Key: A Major
+📎 Weirdness: 30
+📎 Style Influence: 85
+📎 Audio Influence: 70 （使用 Voices 时）
+📎 Section Steering: ON
+
+📎 Title:
+海风的记忆
+
+📎 Lyrics:
+[Intro]
+[Verse 1]
+夕阳染红了整片海岸线
+你的笑容像是夏天的明信片
+...
+
+[Pre-Chorus]
+时间在指缝间悄悄溜走
+...
+
+[Chorus]
+海风轻轻吹过你的发梢
+带走了那年夏天的烦恼
+...

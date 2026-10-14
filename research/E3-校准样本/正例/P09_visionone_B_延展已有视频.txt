@@ -1,0 +1,6 @@
+Extend @video1 by 5s. Keep continuity of character identity, outfit, camera direction, and lighting.
+0-2s (new segment): continue current motion seamlessly without jump cut.
+2-5s (new segment): introduce one escalation action and resolve naturally.
+Camera: same lens feel and movement language as @video1.
+Audio: continue ambience; add subtle transition swell only at climax.
+negative: no watermark, no logo.

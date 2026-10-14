@@ -1,0 +1,2 @@
+一名陶艺师在工作室摆正浅蓝陶杯，柔和晨光从窗口进入，湿粘土有细腻光泽，中景。
+Avoid: dirty texture buildup, random micro-pattern noise, ghost texture, latent artifacts, muddy shadows, noisy bokeh, pasted-on texture, milky reflections, clipped highlights, crushed blacks
